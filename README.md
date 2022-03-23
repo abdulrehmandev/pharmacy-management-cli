@@ -10,13 +10,13 @@ Project starts with a Login based interface. Firstly you have to sign in or crea
 login history is also maintined.After the login process the user will be given a choice to get a role. A user can be a Buyer or a Seller.
 
 A buyer can perform following tasks:
-1- Display all medicines.
-2- Search through Existing Medicines.
-3- Place Order
-4- Request for some new medicine.
+1. Display all medicines.
+2. Search through Existing Medicines.
+3. Place Order
+4. Request for some new medicine.
 
 A seller can perform following tasks:
-1- Insert a new medicine
-2- Update Existing Medicines
-3- Display all medicines.
-4- Search through existing medicines.
+1. Insert a new medicine
+2. Update Existing Medicines
+3. Display all medicines.
+4. Search through existing medicines.
