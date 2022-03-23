@@ -6,7 +6,7 @@ Console App based Medical Store Management in C++
 * Files type used is .CSV
 * Each and everything is updated to the files.
 
-- Project Overview
+# Project Overview
 Project starts with a Login based interface. Firstly you have to sign in or create a account if you don't already have one. The accounts are stored through file and the
 login history is also maintined.After the login process the user will be given a choice to get a role. A user can be a Buyer or a Seller.
 
